@@ -8,7 +8,7 @@ function About() {
               <p className="about-text">
                I'm a third-year B.Tech (AI/ML) student at SHEAT College of Engineering, Varanasi. 
                I enjoy turning ideas into working websites, and I've spent the last year building
-               projects with the MERN Stack. 
+               projects with the MERN Stack.  
                </p> 
                <a href="#" className="btn btn-primary" target="_blank" rel="noreffer">
                 Download resume
@@ -26,13 +26,13 @@ function About() {
                  <li>
                     <span className="fact-label">GitHub</span>
                     <a href="https://github.com/" target="_blank" rel="noreferrer">
-                    github.com/Darshan-Raghuvanshi
+                    Github Profile
                     </a>
                 </li>
                  <li>
                     <span className="fact-label">LinkedIn</span>
                     <a href="https://linkedin.com" target="_blank" rel="nonreffer">
-                    https://www.linkedin.com/in/darshan-raghuvanshi-4568563ba?utm_source=share_via&utm_content=profile&utm_medium=member_android
+                     LinkedIn Profile
                     </a>
                 </li>
              </ul>
